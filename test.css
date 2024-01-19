@@ -3,7 +3,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: Lato;
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
 }
 nav {
     padding: 20px;
@@ -357,9 +357,9 @@ margin-bottom: 10px; /* Adjust the margin-bottom to move the h4 tag up */
         display: none;
         padding: 20px;
     }
-    /* .m{
+    .m{
         display: none;
-    } */
+    }
 }
 
 
